@@ -11,7 +11,7 @@ OVERVIEW
 
 
 
-from iliyamakayla_fshd_main import *
+from iliyamakayla_fshd import *
 import matplotlib.pyplot as plt
 import statistics
 from scipy import stats
