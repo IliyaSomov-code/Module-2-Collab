@@ -6,14 +6,3 @@ OVERVIEW
 3. Graph/plot 2
 '''
 
-
-
-
-
-
-from iliyamakayla_fshd import *
-import matplotlib.pyplot as plt
-import statistics
-from scipy import stats
-from sklearn.linear_model import LinearRegression
-
